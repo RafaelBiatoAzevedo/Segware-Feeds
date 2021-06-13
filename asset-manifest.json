@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Segware-Feeds/static/css/main.c5071c6d.chunk.css",
+    "main.js": "/Segware-Feeds/static/js/main.82cecdd0.chunk.js",
+    "main.js.map": "/Segware-Feeds/static/js/main.82cecdd0.chunk.js.map",
+    "runtime-main.js": "/Segware-Feeds/static/js/runtime-main.5b0b47cb.js",
+    "runtime-main.js.map": "/Segware-Feeds/static/js/runtime-main.5b0b47cb.js.map",
+    "static/js/2.ad858e34.chunk.js": "/Segware-Feeds/static/js/2.ad858e34.chunk.js",
+    "static/js/2.ad858e34.chunk.js.map": "/Segware-Feeds/static/js/2.ad858e34.chunk.js.map",
+    "static/js/3.ed9d0ebf.chunk.js": "/Segware-Feeds/static/js/3.ed9d0ebf.chunk.js",
+    "static/js/3.ed9d0ebf.chunk.js.map": "/Segware-Feeds/static/js/3.ed9d0ebf.chunk.js.map",
+    "index.html": "/Segware-Feeds/index.html",
+    "static/css/main.c5071c6d.chunk.css.map": "/Segware-Feeds/static/css/main.c5071c6d.chunk.css.map",
+    "static/js/2.ad858e34.chunk.js.LICENSE.txt": "/Segware-Feeds/static/js/2.ad858e34.chunk.js.LICENSE.txt",
+    "static/media/anonymusAvatar.9dc93d7c.png": "/Segware-Feeds/static/media/anonymusAvatar.9dc93d7c.png",
+    "static/media/genericAvatar.3382ab1e.jpg": "/Segware-Feeds/static/media/genericAvatar.3382ab1e.jpg",
+    "static/media/logoSegware.7e09b347.png": "/Segware-Feeds/static/media/logoSegware.7e09b347.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5b0b47cb.js",
+    "static/js/2.ad858e34.chunk.js",
+    "static/css/main.c5071c6d.chunk.css",
+    "static/js/main.82cecdd0.chunk.js"
+  ]
+}
