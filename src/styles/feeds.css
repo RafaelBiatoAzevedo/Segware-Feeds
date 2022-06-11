@@ -1,0 +1,109 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Helvetica, sans-serif;
+}
+
+.container-header-feeds {
+  align-items: center;
+  background-color: #1b2027;
+  display: flex;
+  height: 70px;
+}
+
+.container-header-feeds img {
+  margin: 10px 200px;
+}
+
+.container-header-feeds h1 {
+  color: white;
+}
+
+.container-feeds {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 150px;
+}
+
+.feed {
+  padding: 5px 10px 0 10px;
+  width: 600px;
+}
+
+.top-feed {
+  align-items: center;
+  display: flex;
+}
+
+.imgAvatar {
+  border-radius: 20px;
+  height: 40px;
+  margin-right: 10px;
+  width: 40px;
+}
+
+.container-msg {
+  border-left: solid #1b2027 1.5px;
+  margin: 5px 20px;
+  padding: 10px 20px 0;
+}
+
+.container-upvotes {
+  align-items: center;
+  display: flex;
+  margin: 15px 0 0;
+}
+
+.btn-upvotes {
+  background-color: transparent;
+  border: none;
+}
+
+.upvoteIcon {
+  cursor: pointer;
+  margin-right: 10px;
+  width: 30px;
+}
+
+.container-form {
+  background-color: rgb(76, 76, 77);
+  bottom: 0;
+  height: 100px;
+  padding: 10px 0 30px;
+  position: fixed;
+  width: 100%;
+}
+
+.form-feed {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
+.container-inputs-form {
+  display: flex;
+  flex-direction: column;
+}
+
+.input-feed {
+  border-radius: 5px;
+  border-style: inset;
+  margin: 5px;
+  padding: 5px;
+}
+
+.btn-post {
+  background-color: #1b2027;
+  border-radius: 5px;
+  color: white;
+  cursor: pointer;
+  height: 30px;
+  margin-left: 80px;
+  margin-right: 40px;
+  padding: 5px 15px;
+}
+
+.noFound {
+  margin: 20px;
+}
